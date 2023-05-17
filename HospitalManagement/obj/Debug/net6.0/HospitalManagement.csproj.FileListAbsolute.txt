@@ -1,0 +1,15 @@
+C:\Users\InviaILC\source\repos\HospitalManagement\HospitalManagement\bin\Debug\net6.0\HospitalManagement.exe
+C:\Users\InviaILC\source\repos\HospitalManagement\HospitalManagement\bin\Debug\net6.0\HospitalManagement.deps.json
+C:\Users\InviaILC\source\repos\HospitalManagement\HospitalManagement\bin\Debug\net6.0\HospitalManagement.runtimeconfig.json
+C:\Users\InviaILC\source\repos\HospitalManagement\HospitalManagement\bin\Debug\net6.0\HospitalManagement.dll
+C:\Users\InviaILC\source\repos\HospitalManagement\HospitalManagement\bin\Debug\net6.0\HospitalManagement.pdb
+C:\Users\InviaILC\source\repos\HospitalManagement\HospitalManagement\obj\Debug\net6.0\HospitalManagement.csproj.AssemblyReference.cache
+C:\Users\InviaILC\source\repos\HospitalManagement\HospitalManagement\obj\Debug\net6.0\HospitalManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InviaILC\source\repos\HospitalManagement\HospitalManagement\obj\Debug\net6.0\HospitalManagement.AssemblyInfoInputs.cache
+C:\Users\InviaILC\source\repos\HospitalManagement\HospitalManagement\obj\Debug\net6.0\HospitalManagement.AssemblyInfo.cs
+C:\Users\InviaILC\source\repos\HospitalManagement\HospitalManagement\obj\Debug\net6.0\HospitalManagement.csproj.CoreCompileInputs.cache
+C:\Users\InviaILC\source\repos\HospitalManagement\HospitalManagement\obj\Debug\net6.0\HospitalManagement.dll
+C:\Users\InviaILC\source\repos\HospitalManagement\HospitalManagement\obj\Debug\net6.0\refint\HospitalManagement.dll
+C:\Users\InviaILC\source\repos\HospitalManagement\HospitalManagement\obj\Debug\net6.0\HospitalManagement.pdb
+C:\Users\InviaILC\source\repos\HospitalManagement\HospitalManagement\obj\Debug\net6.0\HospitalManagement.genruntimeconfig.cache
+C:\Users\InviaILC\source\repos\HospitalManagement\HospitalManagement\obj\Debug\net6.0\ref\HospitalManagement.dll
