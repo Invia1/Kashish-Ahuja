@@ -1,0 +1,15 @@
+C:\Users\InviaILC\source\repos\inter\inter\obj\Debug\net6.0\Employee.csproj.AssemblyReference.cache
+C:\Users\InviaILC\source\repos\inter\inter\obj\Debug\net6.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\InviaILC\source\repos\inter\inter\obj\Debug\net6.0\Employee.AssemblyInfoInputs.cache
+C:\Users\InviaILC\source\repos\inter\inter\obj\Debug\net6.0\Employee.AssemblyInfo.cs
+C:\Users\InviaILC\source\repos\inter\inter\obj\Debug\net6.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\InviaILC\source\repos\inter\inter\bin\Debug\net6.0\Employee.exe
+C:\Users\InviaILC\source\repos\inter\inter\bin\Debug\net6.0\Employee.deps.json
+C:\Users\InviaILC\source\repos\inter\inter\bin\Debug\net6.0\Employee.runtimeconfig.json
+C:\Users\InviaILC\source\repos\inter\inter\bin\Debug\net6.0\Employee.dll
+C:\Users\InviaILC\source\repos\inter\inter\bin\Debug\net6.0\Employee.pdb
+C:\Users\InviaILC\source\repos\inter\inter\obj\Debug\net6.0\Employee.dll
+C:\Users\InviaILC\source\repos\inter\inter\obj\Debug\net6.0\refint\Employee.dll
+C:\Users\InviaILC\source\repos\inter\inter\obj\Debug\net6.0\Employee.pdb
+C:\Users\InviaILC\source\repos\inter\inter\obj\Debug\net6.0\Employee.genruntimeconfig.cache
+C:\Users\InviaILC\source\repos\inter\inter\obj\Debug\net6.0\ref\Employee.dll
